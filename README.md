@@ -1,8 +1,6 @@
 # 🚀 Meu Primeiro Repositório no GitHub  
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Rmns28/meu-primeiro-repositorio?color=blue)  
-![GitHub last commit](https://img.shields.io/github/last-commit/Rmns28/meu-primeiro-repositorio?color=green)  
-![GitHub issues](https://img.shields.io/github/issues/Rmns28/meu-primeiro-repositorio)  
+
 ![GitHub stars](https://img.shields.io/github/stars/Rmns28/meu-primeiro-repositorio?style=social)  
 
 Este repositório foi criado como parte do **Desafio de Projeto da DIO** sobre **Git/GitHub**.  
